@@ -22,8 +22,8 @@ Spark NLP is a self-contained library. It does not require you to download any o
 
 **Please follow the installation/setup steps below before the tutorial:**
 
-
 + Clone this repo into your machine by running `git clone https://github.com/ftarlaci/anitab-nlp-workshop` in your command line. 
++ Do a `git pull` before the workshop if you would like to follow along with us as we will be adding some of the workshop code files prior to the workshop. 
 
 ### Option 1: Setup by Using Google Colab 
 
